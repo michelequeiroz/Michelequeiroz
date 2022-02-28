@@ -17,7 +17,7 @@
   <img align="center" alt="michele-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ![Snake animation](https://github.com/Michelequeiroz/michelequeiroz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/michelequeiroz/Michelequeiroz/blob/output/github-contribution-grid-snake.svg)
   
   ##
   

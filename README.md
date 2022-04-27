@@ -1,6 +1,6 @@
 ### Olá, eu sou a Michele! 👋
 
-- 🔭 Estou em busca de estagio.
+
 - 🌱 Estudando Analise e Desenvolvimento de sistemas
 - 😄 Pronouns: ela/dela
 
